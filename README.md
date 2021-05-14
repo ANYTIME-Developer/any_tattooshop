@@ -1,5 +1,5 @@
 # any_tattooshop
-An esx_tattooshop edited for me.
+An esx_tattooshop edited for me. Original script: https://github.com/esx-community/esx_tattooshop
 
 ## Requirements
 - [esx_skin](https://github.com/ESX-Org/esx_skin)
