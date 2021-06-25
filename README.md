@@ -16,8 +16,8 @@ Hello! This is my first contribution to the community, this is a simple script t
 
 ¡Hola! Esta es mi primera contribución a la comunidad, este es un simple script que te permite quitar tus tatuajes en la tienda de tatuajes.
 
-For support you can contact me by Discord joining my Fivem Development Discord: https://discord.gg/qqSuUgSte9 or contact me privately: ANYTIME 2.0#1479
-Para soporte puedes contactarme uniendote a mi Discord de Desarrollo: https://discord.gg/qqSuUgSte9 o contactarme privadamente: ANYTIME 2.0#1479
+For support you can contact me privately: ANYTIME 2.0#1479
+Para soporte puedes contactarme privadamente: ANYTIME 2.0#1479
 
 # Preview/Clip
 Simple Preview/Simple Video: https://streamable.com/0drrqd
